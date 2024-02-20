@@ -2,8 +2,8 @@
 - 👀 I’m interested in everything that makes me happy
 - 🌱 I’m currently learning basics like HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me - Leave me alone i know what i'm doing
+- 😄 Pronouns: AH-64 Apache
 - ⚡ Fun fact: You just wasted 5 seconds to read this :)
 
 <!---
