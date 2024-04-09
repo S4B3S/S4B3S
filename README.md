@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @S4B3S
 - 👀 I’m interested in everything that makes me happy
 - 🌱 I’m currently learning basics like HTML, CSS, JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on everything that can bring joy to my life
 - 📫 How to reach me - Leave me alone i know what i'm doing
 - 😄 Pronouns: AH-64 Apache
 - ⚡ Fun fact: You just wasted 5 seconds to read this :)
